@@ -1,1 +1,1 @@
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJyYW1pbi0xMC05Z3Y2dmZ3d3UiLAogICJhZGQiOiAid2s1LnRlY2huZXQzNjAubmV0IiwKICAicG9ydCI6IDI5NTc1LAogICJpZCI6ICJhODk0ZTdjNC00YWM3LTQyZWItYWQ4Ny0yNTQxMDk5NGIxMDIiLAogICJuZXQiOiAidGNwIiwKICAidHlwZSI6ICJub25lIiwKICAidGxzIjogIm5vbmUiCn0=
+vless://0aa2d767-dda7-411d-8d80-8363570a4f86@wk5.technet360.net:22801?type=tcp&security=reality&pbk=2SFS_OFEXJAPzA4Dystywds5V1VpXpKW2YUfsd_7_Sw&fp=chrome&sni=yahoo.com&sid=9f85&spx=%2F&flow=xtls-rprx-vision#Marjan-t0og76mmh
